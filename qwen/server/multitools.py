@@ -525,7 +525,7 @@ def email_tool(to_email: str, subject: str, body: str, attachment_paths: list[st
         smtp_server = os.getenv("EMAIL_SMTP_SERVER", "smtp.gmail.com")
         smtp_port = int(os.getenv("EMAIL_SMTP_PORT", "587"))
         sender_email = os.getenv("EMAIL_USERNAME", "periodictablesme@gmail.com")
-        sender_password = os.getenv("EMAIL_PASSWORD", "rjxl wmay mmuk yxav")
+        sender_password = os.getenv("EMAIL_PASSWORD", "insert-secure-password-here") # REPLACE with actual password or use .env
         
         if not sender_email or not sender_password:
             # ... (error handling) ...
