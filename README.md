@@ -175,33 +175,3 @@ The process is as follows:
 ## 7. Evaluation
 
 The performance of the RAG pipeline has been evaluated using standard metrics. The scripts and results of this evaluation can be found in the `gemini/evaluation/` directory. This includes comparisons between different models and configurations.
-
-## 8. File Contributions
-
-This section details the primary contributions of each team member to the various files and components of the project. Overall both of us (team members) contributions come down to **50-50 (Equal Contributions)**
-
-| File / Directory | Contribution(s) |
-| :--- | :--- |
-| `agent_langgraph.py` | Vivek & Vysishtya |
-| `API_DOCUMENTATION.md` | Vivek |
-| `app.py` | Vivek & Vysishtya |
-| `data/` | Both |
-| `database.py` | Vivek |
-| `evaluation/` | Vysishtya |
-| `evaluation_set/` | Vivek & Vysishtya |
-| `frontend.html` | Vysishtya |
-| `index_and_embed.py` | Vivek & Vysishtya |
-| `ingestion.py` | Vivek & Vysishtya |
-| `logs/` | Both (Generated) |
-| `multitools.py` | Vivek & Vysishtya |
-| `processed/` | Both (Generated) |
-| `prompts.json` | Vysishtya |
-| `rag.py` | Vivek & Vysishtya |
-| `README.md` | Vivek & Vysishtya |
-| `requirements_*.txt` | Both |
-| `retrieval.py` | Vivek & Vysishtya |
-| `summarizer.py` | Vivek |
-| `utils/` | Vivek & Vysishtya |
-| `Report.pdf/` | Vivek & Vysishtya |
-| `LMA_Presentation/` | Vivek & Vysishtya |
-| `Demo_Video.webm/` | Vivek & Vysishtya |
