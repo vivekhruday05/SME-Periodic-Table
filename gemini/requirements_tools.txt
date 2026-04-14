@@ -1,0 +1,13 @@
+# LangChain Tools Dependencies
+# Install with: pip install -r requirements_tools.txt
+
+# Core LangChain framework
+langchain>=0.1.0
+langchain-core>=0.1.0
+
+# Document generation libraries
+fpdf2>=2.7.0           # PDF generation
+python-pptx>=0.6.21    # PowerPoint generation
+
+# Additional dependencies that might be useful
+pathlib2>=2.3.7        # Enhanced path handling (backup for older Python)

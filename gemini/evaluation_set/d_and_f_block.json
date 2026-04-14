@@ -1,0 +1,464 @@
+[
+  {
+    "question": "Q.1. The IUPAC name of the complex [Pt(NH 3 ) 2 Cl(NH 2 CH 3 )]Cl is (a) diamminechlorido(methanamine)platinum(II)chloride. (b) diammine(methanamine)chloridoplatinum(II)chloride. (c) diamminechlorido(aminomethane)platinum(II)chloride. (d) bisammine(methanamine)chloridoplatinum(II)chloride.",
+    "correct_answer": "a",
+    "solution": "The correct IUPAC name for the given complex [Pt(NH\n3\n)\n2\nCl(NH\n2\nCH\n3\n)]Cl is diamminechlorido(methanamine)platinum(II) chloride.",
+    "exam": "2020"
+  },
+  {
+    "question": "Q.2. The theory that can completely/properly explain the nature of bonding in [Ni(CO) 4 ] is (a) Werner’s theory. (b) Molecular orbital theory. (c) Crystal field theory. (d) Valence bond theory",
+    "correct_answer": "b",
+    "solution": "The carbonyl (CO) ligand is a -acceptor ligand, so, it is involved in synergic bonding, which is explained by molecular orbital theory.",
+    "exam": "2020"
+  },
+  {
+    "question": "Q.3. The number of possible optical isomers for the complexes MA 2 B 2 with sp 3 and dsp 2 hybridized metal atom, respectively, is Note: A and B are unidentate neutral and unidentate monoanionic ligands, respectively. (a) 0 and 2 (b) 2 and 2 (c) 0 and 0 (d) 0 and 1",
+    "correct_answer": "c",
+    "solution": "The isomers of the complex compound of type MA\n2\nB\n2\nwith sp\n3\nhybridization (tetrahedral) is zero. Since, the geometry is symmetrical, thus, no optical isomer is possible. For dsp\n2\nhybridization (square planar) is also zero, due to symmetrical geometry.",
+    "exam": "2020"
+  },
+  {
+    "question": "Q.4. Among the statements (I)-(IV), the incorrect ones are (I) Octahedral Co(III) complexes with strong field ligands have very high magnetic moments. (II) When Δ o < P, the d-electron configuration of Co(III) in an octahedral complex is (III) Wavelength of light absorbed by [Co(en) 3 ] 3+ is lower than that of (IV) If the Δ o for an octahedral complex of Co(III) is 18,000 cm −1 , the Δ t for its tetrahedral complex with the same ligand will be 16,000 cm −1 . (a) (I) and (IV) only (b) (III) and (IV) only (c) (I) and (II) only (d) (II) and (III) onl y",
+    "correct_answer": "a",
+    "solution": "(I)\nIn presence of strong field ligands, electrons get paired up, so, number of unpaired electrons decreases, thus, the magnetic moment decreases.\nThe relation between CFSE for octahedral and tetrahedral complexes is:\n(IV)\nFor,Δ\no\n= 18000 cm\n-1\n,the CFSE for tetrahedral complex is\nΔ\nt =\n4/9 x 18000 = 8000 cm\n-1",
+    "exam": "2020"
+  },
+  {
+    "question": "Q.5. The complex that can show fac- and mer- isomers is (a) [Co(NH 3 ) 4 Cl 2 ] + (b) [Pt(NH 3 ) 2 Cl 2 ] (c) [CoCl 2 (en) 2 ] (d) [Co(NH 3 ) 3 (NO 2 ) 3 ]",
+    "correct_answer": "d",
+    "solution": "Complex of type Ma\n3\nb\n3\nshows fac and mer geometrical isomers. So, complex [Co(NH\n3\n)\n3\n(NO\n3\n)\n3\n] will shows\nfac\nand\nmer\ngeometrical isomers.",
+    "exam": "2020"
+  },
+  {
+    "question": "Q.6. The volume (in mL) of 0.125 M AgNO 3 required to quantitatively precipitate chloride ions in 0.3 g of [Co(NH 3 ) 6 ]Cl 3 is __________. M[Co(NH 3 ) 6 ]Cl2 = 267.46 g mol −1 MAgNO 3 = 167.87 g mol -1",
+    "correct_answer": null,
+    "solution": "26.92\nFor the reaction,\nWe know\nM\n1\nV\n1\n= M\n2\nV2\n⇒",
+    "exam": "2020"
+  },
+  {
+    "question": "Q.7. Among (I) – (IV), the complexes that can display geometrical isomerism are (I) [Pt(NH 3 ) 2 Cl] + (II) [Pt(NH 3 ) 2 Cl 5 ]− (III) [Pt(NH 3 ) 2 Cl(NO 2 )] (IV) [Pt(NH 3 ) 4 ClBr] 2+ (a) (II) and (III) (b) (IV) and (I) (c) (III) and (IV) (d) (I) and (II)",
+    "correct_answer": "c",
+    "solution": "The complexes of type Ma\n3\nb or Ma\n5\nb can never displaced geometrical isomerism. The geometrical isomerism exhibit by complex [Pt(NH\n3\n)\n2\nCl(NO\n2\n)]\nThe geometrical isomerism exhibit by complex [Pt(NH\n3\n)\n4\nClBr]\n2+",
+    "exam": "2020"
+  },
+  {
+    "question": "Q.8. The correct order of the calculated spin-only magnetic moments of complexes (I) to (IV) is (I) Ni(CO) 4 (II) [Ni(H 2 O) 6 ]Cl 2 (III) Na 2 [Ni(CN) 4 ] (IV) PdCl 2 (PPh 3 ) 2 (a) (I) ≈ (III) < (II) ≈ (IV) (b) (III) < (IV) < (II) < (I) (c) (III) ≈ (IV) < (II) < (I) (d) (I) ≈ (III) ≈ (IV) < (II)",
+    "correct_answer": "c",
+    "solution": "For the given complex, the spin-only magnetic moment is:\nFor [Ni(CO)\n4\n], the oxidation state of Ni is zero. Ni\n0\n: [Ar]3d\n8\n4s\n0\n4p\n2\nThus, the magnetic moment for (I) is 0.\nFor [Ni(H\n2\nO)\n6\n]Cl\n2\n, the oxidation state of Ni is +2. Ni\n2+\n: [Ar]3d\n8\n4s\n0\nThe number of unpaired electrons (n) = 2\nThus, spin only magnetic moment for (II) is =\nFor Na\n2\n[Ni(CN)\n4\n], the oxidation state of Ni is +2. Ni\n2+\n: [Ar]3d\n8\n4s\n0\nThus, the magnetic moment for (III) is 0\nFor [PdCl\n2\n(PPh\n3\n)\n4\n], the oxidation state of Pd is +2. Pd\n2+\n: [Kr]4d\n8\n4s\n0\nThus, the magnetic moment for (IV) is 0.\nHence, the correct order for spin-only magnetic moment is: (I) ≈ (III) ≈ (IV) < (II).",
+    "exam": "2020"
+  },
+  {
+    "question": "Q.9. Complexes (ML 5 ) of metals Ni and Fe have ideal square pyramidal and trigonal bipyramidal geometries, respectively. The sum of the 90°, 120° and 180° L–M–L angles in the two complexes is _______.",
+    "correct_answer": null,
+    "solution": "20\nThe square pyramidal structure for Ni complex is\nThis complex has eight 90° L–Ni–L and two 180° L–Ni–L bonds.\nThe trigonal bipyramidal structure for Fe complex is\nThis complex has six 90° L–Fe–L, three 120° L–Fe–L and one 180° L–Fe–L bonds.\nThus, total of 8 + 2 + 6 + 3 + 1 = 20 L–M–L bonds.",
+    "exam": "2020"
+  },
+  {
+    "question": "Q.10. Complex X of composition Cr(H 2 O) 6 Cl n has a spin only magnetic moment of 3.83 BM. It reaches with AgNO 3 and shows geometrical isomerism. The IUPAC nomenclature of X is (a) hexaaqua choromium(III) chloride. (b) tetraaquadichlorido chromium (IV) chloride dihydrate. (c) dichloridotetraaqua chromium(IV) chloride dihydrate. (d) tetraaquadichlorido chromium (III) chloride dehydrate.",
+    "correct_answer": "d",
+    "solution": "The spin only magnetic moment = 3.83 BM, that is, there are 3 unpaired electrons in d-orbital of Cr. So, the oxidation state of Cr is +III. This complex can show geometrical isomerism which complex type of Ma\n4\nb\n2\nor Ma\n3\nb\n3\n. But this complex reacts with AgNO\n3\n, so the complex must of type Ma\n4\nb\n2\n. Hence, the complex is [Cr(H\n2\nO)\n4\nCl\n2\n]Cl. 2H\n2\nO and its IUPAC name is: tetraaquadichloridochromium(III)chloride dihydrate.",
+    "exam": "2020"
+  },
+  {
+    "question": "Q.11. [Pd(F)(Cl)(Br)(I)] 2− has n number of geometrical isomers. Then, the spin-only magnetic moment and crystal field stabilization energy [CFSE] of [Fe(CN) 6 ] n – 6 , respectively, are [Note: Ignore the pairing energy] (a) 2.84 BM and −1.6 Δ o (b) 5.92 BM and 0 (c) 1.73 BM and −2.0 Δ o (d) 0 BM and −2.4 Δ o",
+    "correct_answer": "c",
+    "solution": "The possible geometrical isomers of the complex of type Mabcd are three.\nThus, the coordination complex of iron\n[Fe(CN)\n6\n]\n3−\nThe oxidation state of Fe in above complex is Fe\n3+\n= [Ar] 3d\n5\n4s\n0\n.\nDue to the strong field ligand, pairing will occur, hence, the electronic configuration will be\nSo, the magnetic moment is\nThe CFSE of the complex is\nCFSE 2.0 = −2.0Δ\n0",
+    "exam": "2020"
+  },
+  {
+    "question": "Q.12. The correct order of the spin-only magnetic moments of the following complexes is (I) [Cr(H 2 O) 6 ]Br 2 (II) Na 4 [Fe(CN) 6 ] (III) Na 3 [Fe(C 2 O 4 ) 3 ] (Δ o > P) (IV) (Et 4 N) 2 [CoCl 4 ] (a) (III) > (I) > (IV) > (II) (b) (III) > (I) > (II) > (IV) (c) (I) > (IV) > (III) > (II) (d) (II) (I) > (IV) > (III)",
+    "correct_answer": "c",
+    "solution": "For the given complex, the spin-only magnetic moment is:\nFor [Cr(H2O)6]Br2, the oxidation state of Cr is +2. Cr\n2+\n:[Ar]3d\n4\n4s\n0\nSince, the ligand is weak filed ligand, so no pairing will take place, thus, electronic configuration is\n.\nThe number of unpaired electrons (n) = 4\nFor Na\n4\n[Fe(CN)\n6\n], the oxidation state of Fe is +2. Fe\n2+\n: [Ar] 3d\n6\n4s\n0\nSince, the ligand is strong filed ligand, so pairing of electrons will take place, thus, electronic configuration is\n. The number of unpaired electrons (n) = 0\nFor Na\n3\n[Fe(C\n2\nO\n3\n)\n3\n], the oxidation state of Fe is +3. Fe3\n+\n: [Ar]3d\n5\n4s\n0\nSince, it is given, Δ\n0\n> P, so pairing will take place, thus, electronic configuration is\n.  The number of unpaired electrons (n) = 1\nFor (Et\n4\nN)\n2\n[CoCl\n4\n], the oxidation state of Co is +2. Co\n2+\n: [Ar]4d\n7\n4s0.\nSince, the ligand is weak filed ligand, so no pairing will take place, thus, electronic configuration is\n.\nThe number of unpaired electrons (n) = 3\nHence, the correct order for spin-only magnetic moment is: (I) (IV) (III) (II).",
+    "exam": "2020"
+  },
+  {
+    "question": "Q.13. 5 g of zinc is treated separately with an excess of (I) dilute hydrochloric acid and (II) aqueous sodium hydroxide The ratio of the volumes of H2 evolved in these two reactions is (a) 1 : 2 (b) 1 : 1 (c) 1 : 4 (d) 2 : 1",
+    "correct_answer": "b",
+    "solution": "The moles of zinc\n= 0.076 mol.\nThe reaction of zinc with HCl and NaOH is\nZn(s) + 2HCl(aq) → ZnCl\n2\n(aq) + H\n2\n(g)\nZn(s) + 2NaOH(aq) + 2H\n2\nO(l) → Na\n2\nn(OH)\n4\n(aq) + H\n2\n(g)\n1 mol of Zn react with HCl and NaOH respectively, 1 mol of hydrogen gas is liberated from each reaction. Thus, the ratio of hydrogen gas evolved when 5 g of Zn reacts with dil. HCl and aq. NaOH solutions is 1:1.",
+    "exam": "2020"
+  },
+  {
+    "question": "Q.14. The isomer(s) of [Co(NH 3 ) 4 Cl 2 ] that has/have a Cl–Co–Cl angle of 90°, is/are (a) meridional and trans (b) cis and trans (c) trans only (d) cis only",
+    "correct_answer": "d",
+    "solution": "The geometrical isomers of [Co(NH\n3\n)\n4\nCl\n2\n] is:\nHence, only cis-isomer have Cl–Co–Cl bond angle equal to 90°.",
+    "exam": "2020"
+  },
+  {
+    "question": "Q.15. The atomic radius of Ag is closest to (a) Au (b) Ni (c) Cu (d) Hg",
+    "correct_answer": "a",
+    "solution": "Due to the lanthanoid contraction, the atomic radius of Ag is closest to Au.",
+    "exam": "2020"
+  },
+  {
+    "question": "Q.16. Consider the following reactions: NaCl + K 2 Cr 2 O 7 + conc.H 2 SO 4 → (A) + side products (A) + NaOH → (B) + Side products (B) + dil.H 2 SO 4 + H 2 O 2 → (C) + Side products The sum of the total number of atoms in one molecule each of (A), (B) and (C) is________.",
+    "correct_answer": null,
+    "solution": "18\nThe reaction involved is\nNaCl + K\n2\nCr\n2\nO\n7\n+ conc. H\n2\nSO\n4\n→\n+  2KHSO\n4\n(aq) + 4NaHSO\n4\n(aq) + 3H\n2\nO (l)\n+ NaOH (aq) →\n+ NaCl + H\n2\nO\n+ H\n2\nSO\n4\n+H\n2\nO\n2\n→\n+  Na\n2\nSO\n4\n+ H\n2\nO\nThus, the total number of electrons in compound (A), (B) and (C) is 5 + 7 + 6 = 18",
+    "exam": "2020"
+  },
+  {
+    "question": "Q.17. The third ionization enthalpy is minimum for (a) Co (b) Fe (c) Ni (d) Mn",
+    "correct_answer": "b",
+    "solution": "The electronic configuration of Fe (Z = 26) is [Ar] 3d\n6\n4s\n2\n. After losing three electrons, the electronic configuration will be Fe3+ : [Ar] 3d\n5\n4s\n0\ndue to the degenerate d-orbital configuration, the third ionization energy of Fe is minimum among the given options.",
+    "exam": "2020"
+  },
+  {
+    "question": "Q.18. Assertion: For hydrogenation reactions, the catalytic activity increases from Group 5 to Group 11 metals with maximum activity shown by Group 7-9 elements. Reason: The reactants are most strongly adsorbed on Group 7-9 elements. (a) Both assertion and reason are true, and the reason is the correct explanation for the assertion. (b) Both assertion and reason are false. (c) Both assertion and reason are true, but the reason is not the correct explanation for the assertion. (d) Assertion is not true, but reason is true.",
+    "correct_answer": "a",
+    "solution": "The d-block elements show catalytical activity in hydrogenation reaction, due to the large surface area, elements of Group 7 – 9, the reactant more strongly absorbed on them.",
+    "exam": "2020"
+  },
+  {
+    "question": "Q.19. The electronic configurations of bivalent europium and trivalent cerium are (Atomic number: Xe = 54, Ce = 58, Eu = 64) (a) [Xe] 4f 2 and [Xe] 4f 7 (b) [Xe] 4f 7 and [Xe] 4f 1 (c) [Xe] 4f 7 6s 2 and [Xe] 4f 2 6s 2 (d) [Xe] 4f 4 and [Xe] 4f 9",
+    "correct_answer": "b",
+    "solution": "The electronic configuration of Ce\n3+\nis [Xe]4f\n1\nand that of Eu\n2+\nis [Xe]4f\n7\n.",
+    "exam": "2020"
+  },
+  {
+    "question": "Q.20. The sum of the total number of bonds between chromium and oxygen atoms in chromate and dichromate ions is _______.",
+    "correct_answer": null,
+    "solution": "12\nThe structure of chromate and dichromate is\nThus, total number of bonds between Cr and O in chromate is 4 and in dichromate is 8. Hence, the sum of total bonds in chromate and dichromate is 4 + 8 = 12.",
+    "exam": "2020"
+  },
+  {
+    "question": "Q.21. The transition element that has lowest enthalpy of atomisation is: (a) Fe (b) Cu (c) V (d) Zn",
+    "correct_answer": "d",
+    "solution": "As zinc has no unpaired of electrons to take part in the bond, it has least enthalpy of atomisation amongst the given transition elements.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.22. The effect of lanthanoid contraction in the lanthanoid series of elements by and large means: (a) increase in both atomic and ionic radii (b) decrease in atomic radii and increase in ionic radii (c) decrease in both atomic and ionic radii (d) increase in atomic radii and decrease in ionic radii",
+    "correct_answer": "c",
+    "solution": "Due to lanthanoid contraction, both atomic radii and ionic radii decrease gradually in the lanthanoid series.\nThe\nLanthanide contraction\nis caused by a poor shielding\neffect\nof the 4f electrons.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.23. The electrolytes usually used in the electroplating of gold and silver, respectively, are: (a) [Au (CN) 2 ] and [Ag(CN) 2 ] - (b) [Au(CN) 2 ] - and [AgCl 2 ] - (c) [Au(OH) 4 ] - and [Ag(OH) 2 ] - (d) [Au(NH 3 ) 2 ] + and [Ag(CN) 2 ] -",
+    "correct_answer": "a",
+    "solution": "The electrolytes used in the electroplating of Au and Ag are [Au(CN)\n2\n]\n-\nand [Ag(CN)\n2\n]\n-\nrespectively.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.24. The element that usually does NOT show variable oxidation states is: (a) Cu (b) Ti (c) Sc (d) V",
+    "correct_answer": "c",
+    "solution": "Sc shows oxidation state of +3 only.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.25. Mn 2 (CO) 10 is an organometallic compound due to the presence of: (a) Mn-C bond (b) Mn-Mn bond (c) Mn-O bond (d) C-O bond",
+    "correct_answer": "a",
+    "solution": "Compounds having atleast one carbon metal (M - C) bond are known as organometallic compounds. It contains\nMn-C\nbond.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.26. The correct order of atomic radii is: (a) N>Ce>Eu>Ho (b) Ho>N>Eu>Ce (c) Ce> Eu>Ho>N (d) Eu>Ce>Ho>N",
+    "correct_answer": "d",
+    "solution": "Atomic radii follows the order",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.27. The lanthanide ion that would show colour is: (a) Gd 3+ (b) Sm 3+ (c) La 3+ (d) Lu 3+",
+    "correct_answer": "b",
+    "solution": "Sm = 4f\n6\n6s\n2\nSm\n3+\n= 4f\n5\n= Partially filled/orbital\n∴ Sm\n3+\nwill be coloured\nLu\n3+\n= 4f\n14\n= colourless.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.28. The statement that is INCORRECT about the interstitial compounds is: (a) they are chemically reactive. (b) they are very hard. (c) they have metallic conductivity. (d) they have high melting points.",
+    "correct_answer": "a",
+    "solution": "Interstitial compounds are inert, i.e., they are chemically non-reactive.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.29. The maximum number of possible oxidation states of actinoides are shown by: (a) Nobelium (No) and lawrencium (Lr) (b) Actinium (Ac) and thorium (Th) (c) Berkelium (Bk) and californium (Cf) (d) Neptunium (Np) and plutonium (Pu)",
+    "correct_answer": "d",
+    "solution": "∴ Maximum oxidation state is shown by Np and Pu.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.30. Consider the hydrated ions of Ti 2+ , V 2+ , Ti 3+ , and Sc 3+ . The correct order of their spin-only magnetic moments is: (a) V 2+ < Ti 2+ < Ti 3+ < Sc 3+ (b) Sc 3+ < Ti 3+ < Ti 2+ < V 2+ (c) Ti 3+ < Ti 2+ < Sc 3+ < V 2+ (d) Sc 3+ < Ti 3+ < V 2+ < Ti 2+",
+    "correct_answer": "b",
+    "solution": "Electronic configuration of the given transition metal ions are:\nSince, magnetic moment is directly proportional to the number of unpaired electrons. The correct increasing order of magnetic moment is Sc\n3+\n< Ti\n3+\n< Ti\n2+\n< V\n2+\nbecause they have 0, 1, 2 and 3 unpaired electrons respectively.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.31. The highest possible oxidation states of uranium and plutonium, respectively, are: (a) 6 and 7 (b) 6 and 4 (c) 7 and 6 (d) 4 and 6",
+    "correct_answer": "a",
+    "solution": "Maximum oxidation state shown by Uranium is + 6 and Plutonium is 7.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.32. The correct order of the first ionization enthalpies is: (a) Ti < Mn < Zn < Ni (b) Ti < Mn < Ni < Zn (c) Mn < Ti < Zn < Ni (d) Zn < Ni < Mn < Ti",
+    "correct_answer": "b",
+    "solution": "I.E. increases on moving left to right in a period.\n∴ Ti < Mn < Ni < Zn",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.33. The pair that has similar atomic radii is: (a) Mn and Re (b) Ti and Hf (c) Sc and Ni (d) Mo and W",
+    "correct_answer": "d",
+    "solution": "Mo and W belong to group 6 and period 5 (4d series) and 6 (5d series) respectively.\nDue to lanthanoid contraction, radius of Mo and W are almost same i.e. 0.140 nm and 0.141 nm respectively.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.34. Two complexes [Cr (H 2 O) 6 ] Cl 3 (A) and [Cr (NH 3 ) 6 ] Cl 3 (B) are violet and yellow coloured, respectively. The incorrect statement regarding them is: (a) Δ 0 values of (A) and (B) are calculated from the energies of violet and yellow light, respectively. (b) both are paramagnetic with three unpaired electrons. (c) both absorb energies corresponding to their complementary colors. (d) Δ 0 value for (A) is less than that of (B).",
+    "correct_answer": "a",
+    "solution": "Here, both the complexes (A) and (B) are paramagnetic with 3 unpaired electrons each. Also H\n2\nO is a weak field ligand which causes lesser splitting than NH\n3\nwhich is comparatively stronger field ligand. Hence, the (Δ\n0\n) value of (A) and (B) are calculated from the wavelengths of light absorbed and not from the wavelengths of light emitted.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.35. The highest value of the calculated spin only magnetic moment (in BM) among all the transition metal complexes is: (a) 5.92 (b) 6.93 (c) 3.87 (d) 4.90",
+    "correct_answer": "a",
+    "solution": "Magnetic moment,\n(where, n = no. of unpaired electrons)\nAs transition metal atom/ion in a complex may have unpaired electrons ranging from zero to 5. So, maximum number of unpaired electrons that may be present in a complex is 5.\n∴ Maximum value of magnetic moment among all the transition metal complexes is",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.36. The complex that has highest crystal field splitting energy (A) is: (a) [Co(NH 3 ) 5 (H 2 O)]Cl 3 (b) K 2 [CoCl 4 ] (c) [Co(NH 3 ) 5 Cl]Cl 2 (d) K 3 [Co(CN) 6 ]",
+    "correct_answer": null,
+    "solution": "(4)\nIn case of similar metal atom or ion, the value of coordination number and the strength of the ligands determine the value of crystal field splitting energy.\nGreater the co-ordination number and strength of value of the ligand, greater will be the value of CFSE.\nStrength of ligands : CN\n-\n> NH\n3\n> H\n2\nO > Cl\n-\n∴ K\n3\n[Co(CN)\n6\n] has the highest crystal field splitting energy.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.37. Homoleptic octahedral complexes of a metal ion 'M 3+ ' with three monodentate ligands L 1 , L 2 and L 3 absorb wavelengths in the region of green, blue and red respectively. The increasing order of the ligand strength is: (a) L 3 < L 1 < L 2 (b) L 3 < L 2 < L 1 (c) L 1 < L 2 < L 3 (d) L 2 < L 1 < L 3",
+    "correct_answer": "a",
+    "solution": "Lesser the wavelength of light absorbed (more energy) greater will be ligand strength.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.38. The total number of isomers for a square planar complex [M(F)(Cl)(SCN)(NO 2 )] is: (a) 16 (b) 8 (c) 4 (d) 12",
+    "correct_answer": "d",
+    "solution": "",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.39. The difference in the number of unpaired electrons of a metal ion in its high-spin and low-spin octahedral complexes is two. The metal ion is: (a) Ni 2+ (b) Fe 2+ (c) Co 2+ (d) Mn 2+",
+    "correct_answer": "c",
+    "solution": "",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.40. A reaction of cobalt(III) chloride and ethylenediamine in a 1 : 2 mole ratio generates two isomeric products A (violet coloured) and B (green coloured). A can show optical activity, but, B is optically inactive. What type of isomers does A and B represent? (a) Geometrical isomers (b) Coordination isomers (c) Linkage isomers (d) Ionisation isomers",
+    "correct_answer": "a",
+    "solution": "Reaction for the given condition can be written as:\nA = optically active (cis-isomer), violet\nB = optically inactive (trans-isomer), green",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.41. Match the metals (column I) with the coordination compound(s)/enzyme(s) (column II): (a) (A)-(iii); (B)-(iv); (C)-(i); (D)-(ii) (b) (A)-(i); (B)-(ii); (C)-(iii); (D)-(iv) (c) (A)-(ii); (B)-(i); (C)-(iv); (D)-(iii) (d) (A)-(iv); (B)-(iii); (C)-(i); (D)-(ii)",
+    "correct_answer": "a",
+    "solution": "Wilkinson catalyst: [Rh(PPh)\n3\nCl]\nChlorophyll : C\n55\nH\n72\nO\n5\nN\n4\nMg\nVitamin B\n12\ncontains Co.\nCarbonic anhydrase contains a Zn ion.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.42. The coordination number of Th in K 4 [Th(C 2 O 4 ) 4 (H 2 O) 2 ] is: (C 2 O 2- 4 = oxalato) (a) 14 (b) 6 (c) 8 (d) 10",
+    "correct_answer": "d",
+    "solution": "K\n4\n[Th(C\n2\nO\n4\n)\n4\n(H\n2\nO)\n2\n]\nC\n2\nO\n2-\n4\n(oxalato) : bidentate ligand\nH2O (aqua): monodcntatc\n∴ Co-ordination no. of Th = 2 x 4 + 2 = 10",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.43. The number of bridging CO Iigand(s) and Co-Co bond(s) in Co 2 (CO) 8 , respectively are: (a) 2 and 1 (b) 2 and 0 (c) 0 and 2 (d) 4 and 0",
+    "correct_answer": "a",
+    "solution": "The structure of Co\n2\n(CO)\n8\nis represented as\nIt contains two bridging CO ligands and one metal -metal (Co - Co) bond.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.44. The pair of metal ions that can give a spin only magnetic moment of 3.9 BM for the compex [M(H 2 O) 6 ]Cl 2 , is: (a) V 2+ and Co 2+ (b) V 2+ and Fe 2+ (c) Co 2+ and Fe 2+ (d) Cr 2+ and Mn 2+",
+    "correct_answer": "a",
+    "solution": "So, the central metal ion has 3 unpaired electrons.\n∴ Configuration is either d\n3\nor d\n7\nAs H\n2\nO is a weak field ligand. V\n2+\nand Co\n2+\nwill have 3 unpaired electrons.\nV\n2+\nhas d\n3\nconfiguration; Co\n2+\nhas d\n7\nconfiguration.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.45. The metal d-orbitals that are directly facing the ligands in K 3 [Co(CN) 6 ] are: (a) (b) (c) (d)",
+    "correct_answer": "b",
+    "solution": "K\n3\n[Co(CN)\n6\n] is an octahedral complex.\nDuring splitting of d orbitals in octahederal complexes,\norbitals point towards the direction of ligands (i.e. they experience more repulsion and will be raised in energy by 3/5 Δ\n0\n).",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.46. The magnetic moment of an octahedral homoleptic Mn(II) complex is 5.9 BM. The suitable ligand for this complex is: (a) Ethylenediamine (b) CN - (c) NCS - (d) CD",
+    "correct_answer": "c",
+    "solution": "Electronic configuration of Mn is,\nPresence of 5 unpaired e\n-\nshows that the complex of Mn\n2\n+\nhas only weak field ligand (NCS\n-\n).",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.47. The following ligand is: (a) hexadentate (b) tetradentate (c) bidentate (d) tridentate",
+    "correct_answer": "b",
+    "solution": "It has four atoms containing lone pair of e\n-\n, therefore, it will be able to donate these lone pairs and acts as a tetradentate ligand.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.48. The compound that inhibits the growth of tumors is: (a) frans-[Pt(Cl) 2 (NH 3 ) 2 ] (b) cis-[Pd(Cl) 2 (NH 3 ) 2 ] (c) cis-[Pt(Cl) 2 (NH 3 ) 2 ] (d) trans-[Pd(Cl) 2 (NH 3 ) 2 ]",
+    "correct_answer": "c",
+    "solution": "CM-Platin is used as an anti-cancer drug.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.49. The calculated spin-only magnetic moments (BM) of the anionic and cationic species of [Fe(H 2 O) 6 ] 2 and [Fe(CN) 6 ], respectively, are: (a) 0 and 4.9 (b) 2.84 and 5.92 (c) 4.9 and 0 (d) 0 and 5.92",
+    "correct_answer": "c",
+    "solution": "Where n = no. of unpaired electrons",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.50. The one that will show optical activity is: (en = ethane 1, 2-diamine) (a) (b) (c) (d)",
+    "correct_answer": "c",
+    "solution": "No plane of symmetry or centre of symmetry Hence it is optically active.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.51. The degenerate orbitals of [Cr(H 2 O) 6 ] 3+ are: (a) d xz and d yz (b) d yz and dz 2 (c) (d)",
+    "correct_answer": "a",
+    "solution": "Cr\n3+\nhas (P configuration and forms an octahedral inner orbitals complex.\nThe set of degenerate orbitals are",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.52. The correct statements among I to III are: (I) Valence bond theory cannot explain the color exhibited by transition metal complexes. (II) Valence bond theory can predict quantitatively the magnetic properties of transition metal complexes. (III) Valence bond theory cannot distinguish ligands as week and strong field ones. (a) (II) and (III) only (b) (I), (II) and (III) (c) (I) and (III) only (d) (I) and (II) only",
+    "correct_answer": "c",
+    "solution": "Valence bond theory cannot distinguish between weak field ligands and strong field ligands. Therefore, it cannot predict quantitatively the magnetic properties of transition metal complexes.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.53. The maximum possible denticities of a ligand given below towards a common transition and inner-transition metal ion, respectively, are: (a) 8 and 6 (b) 6 and 8 (c) 6 and 6 (d) 8 and 8",
+    "correct_answer": "b",
+    "solution": "The maximum possible denticites of the given ligand towards transition metal ion is 6 and towards inner transition metal ion (due to greater ionic radii and more atomic orbitals) is 8.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.54. Three complexes, [CoCl(NH 3 ) 5 ] 2+ (I), [Co(NH 3 ) 5 H 2 O] 3+ (II) and [Co(NH 3 ) 6 ] 3+ (III) absorb light in the visible region. The correct order of the wavelength of light absorbed by them is: (a) (III) > (I) > (II) (b) (III) > (II) > (I) (c) (II) > (1) > (III) (d) (I) > (II) > (III)",
+    "correct_answer": "d",
+    "solution": "Wavelength of the energy absorbed by the coordination compound is inversely proportional to ligand field strength of the given co-ordination compound. The strong field ligand causes higher splitting of the d-orbitals. The decreasing order of ligand field strength is NH\n3\n> H\n2\nO > Cl. Therefore decreasing order of absorbed wavelength is (I) > (II) > (III).",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.55. The crystal field stabilization energy (CFSE) of [Fe(H 2 O) 6 ] Cl 2 and K 2 [NiCl 4 ], respectively are: (a) -0.6Δ o and -0.8Δ t (b) -0.4Δ o and -0.8Δ t (c) -2.4Δ o and -1.2Δ t (d) -0.4Δ o and -1.2Δ t",
+    "correct_answer": "b",
+    "solution": "",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.56. The complex ion that will lose its crystal field stabilization energy upon oxidation of its metal to +3 state is: (a) [Co(phen) 3 ] 2+ (b) [Ni(phen) 3 ] 2+ (c) [Zn(phen) 3 ] 2+ (d) [Fe(phen) 3 ] 2+",
+    "correct_answer": "d",
+    "solution": "So, only Fe\n2+\nwill lose crystal field stabilisation energy upon oxidation to +3, others will gain crystal field stabilisation energy.",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.57. The coordination numbers of Co and Al in [Co(Cl)(en) 2 ]Cl and K 3 [A 1 (C 2 O 4 ) 3 ], respectively, are: (en = ethane-1,2-diamine) (a) 5 and 3 (b) 3 and 3 (c) 6 and 6 (d) 5 and 6",
+    "correct_answer": "d",
+    "solution": "",
+    "exam": "2019"
+  },
+  {
+    "question": "Q.58. The recommended concentration of fluoride ion in drinking water is up to 1 ppm as fluoride ion is required to make teeth enamel harder by converting [3Ca 3 (PO 4 ) 2 . Ca(OH) 2 ] to (a) [CaF 2 ] (b) [3(CaF 2 ).Ca(OH) 2 ] (c) [3Ca 3 (PO 4 ) 2 .CaF 2 ] (d) [3{Ca(OH) 2 }.CaF 2 ]",
+    "correct_answer": "c",
+    "solution": "",
+    "exam": "2018"
+  },
+  {
+    "question": "Q.59. Hydrogen peroxide oxides [Fe(CN) 6 ] 4- to [Fe(CN) 6 ] 3- in acidic medium but reduces [Fe(CN) 6 ] 3- to [Fe(CN) 6 ] 4- in alkaline medium. The other products formed are, respectively: (a) (H 2 O + O 2 ) and H 2 O (b) (H 2 O + O 2 ) and (H 2 O+OH - ) (c) H 2 O and (H 2 O + O 2 ) (d) H 2 O and (H 2 O+OH - )",
+    "correct_answer": "c",
+    "solution": "",
+    "exam": "2018"
+  },
+  {
+    "question": "Q.60. Consider the following reaction and statements: [Co(NH 3 ) 4 Br 2 ] + +Br - → [Co(NH 3 ) 3 Br 3 ] + NH 3 (I) Two isomers are produced if the reactant complex ion is a cis-isomer. (II) Two isomers are produced if the reactant complex ion is a trans-isomer. (III) Only one isomer is produced if the reactant complex ion is a trans-isomer. (IV) Only one isomer is produced if the reactant complex ion is a cis-isomer. The correct statements are: (a) (I) and (II) (b) (I) and (III) (c) (III) and (IV) (d) (II) and (IV)",
+    "correct_answer": "b",
+    "solution": "",
+    "exam": "2018"
+  },
+  {
+    "question": "Q.61. The correct combination is: (a) [NiCl 4 ] 2 - paramagnetic ; [Ni(CO) 4 ] — tetrahedral (b) [NiCl 4 ] 2— — square-planar ; [Ni(CN) 4 ] 2 - paramagnetic (c) [NiCl 4 ] 2- — diamagnetic ; [Ni(CO) 4 ] —square-planar (d) [Ni(CO) 4 ] 2- — tetrahedral; [Ni(CN) 4 — paramagnetic",
+    "correct_answer": "a",
+    "solution": "(1) [Ni (Cl)\n4\n]\n2\n→ d\n8\n(Ni)\n2+\nCl\n−\nis weak\nField ligand → So due to unpraised\nis paramagnetic\n(2)\nNi(CO)\n4\n→ Tetrachedral",
+    "exam": "2018"
+  },
+  {
+    "question": "Q.62. When XO 2 is fused with an alkali metal hydroxide in presence of an oxidizing agent such as KNO 3 ; a dark green product is formed which disproportioates in acidic solution to afford a dark purple solution. X is: (a) Mn (b) Cr (c) V (d) Ti",
+    "correct_answer": "a",
+    "solution": "",
+    "exam": "2018"
+  },
+  {
+    "question": "Q.63. In a complexometric titration of metal ion with ligand M (Metal ion) + L (Ligand) → C (Complex) end point is estimated spectrophotometrically (through light absorption). If 'M' and 'C' do not absorb light and only 'L' absorbs, then the titration plot between absorbed light (A) versus volume of ligand 'L' (V) would look like: (a) (b) (c) (d)",
+    "correct_answer": "a",
+    "solution": "Initially ligand consumed by metal due to formation of complex. So absorbed light (A) remain constant, after complex formation is completed, extra volume of ligand solution increases ligand concentration and also increases absorbed light.",
+    "exam": "2018"
+  },
+  {
+    "question": "Q.64. In Wilkinson's catalyst, the hybridization of central metal ion and its shape are respectively: (a) sp 3 d, trigonal bipyramidal (b) d 2 sp 3 , octahedral (c) dsp 2 , square planar (d) sp 3 , tetrahedral",
+    "correct_answer": "c",
+    "solution": "",
+    "exam": "2018"
+  },
+  {
+    "question": "Q.65. Which of the following complexes will show geometrical isomerism? (a) Potassium tris(oxalato)chromate(III) (b) Pentaaquachlorochromium(III)chloride (c) Aquachlorobis(ethylenediamine)cobalt(II) chloride (d) Potassium amminetrichloroplatinate(II)",
+    "correct_answer": "c",
+    "solution": "",
+    "exam": "2018"
+  },
+  {
+    "question": "Q.66. On treatment of 100 mL of 0.1 M solution of CoCl 3 × 6H 2 O with excess AgNO 3 ; 1.2 × 10 22 ions are precipitated. The complex is (a) [Co(H 2 O) 4 Cl 2 ]Cl • 2H 2 O (b) [Co(H 2 O) 3 Cl 3 ] • 3H 2 O (c) [Co(H 2 O) 6 ]Cl 3 (d) [Co(H 2 O) 5 Cl]Cl 2 • H 2 O",
+    "correct_answer": "d",
+    "solution": "Millimoles of AgNO\n3  =\nMillimoles of CoCl\n3\n·6H\n2\nO = 0.1 × 100 = 10\n∴ Each mole of CoCl\n3\n·6H\n2\nO gives two chloride ions.\n∴ [Co(H\n2\nO)\n5\nCl]Cl\n2\n-H\n2\nO",
+    "exam": "2017"
+  },
+  {
+    "question": "Q.67. The pair of compounds having metals in their highest oxidation state is: (a) MnO 2 and CrO 2 Cl 2 (b) [Fe(CN) 6 ] 3- and [Cu(CN) 4 ] 2- (c) [NiCl 4 ] 2- and [CoCl 4 ] 2- (d) [FeCl 4 ] - and Co 2 O 3",
+    "correct_answer": "a",
+    "solution": "MnO\n2\n= + 4\nCrO\n2\nCl\n2\n= + 6",
+    "exam": "2017"
+  },
+  {
+    "question": "Q.68. Which of the following ions does not liberate hydrogen gas on reaction with dilute acids? (a) V 2+ (b) Ti 2+ (c) Mn 2+ (d) Cr 2+",
+    "correct_answer": "c",
+    "solution": "",
+    "exam": "2017"
+  },
+  {
+    "question": "Q.69. [Co 2 (CO) 8 ] displays: (a) no Co–Co bond, six terminal CO and two bridging CO (b) no Co–Co bond, four terminal CO and four bridging CO (c) one Co–Co bond, six terminal CO and two bridging CO (d) one Co-Co bond, four terminal CO and four bridging CO",
+    "correct_answer": "c",
+    "solution": "",
+    "exam": "2017"
+  },
+  {
+    "question": "Q.70. The reaction of zinc with dilute and concentrated nitric acid, respectively produces: (a) N 2 O and NO 2 (b) NO 2 and NO (c) NO and N 2 O (d) NO 2 and N 2 O",
+    "correct_answer": "a",
+    "solution": "Zn reacts with dil. HNO\n3\n(20%) to form nitrous oxide (N\n2\nO)\nZn reacts with conc. HNO\n3\n(70%) to form nitrogen dioxide (NO\n2\n)\n4 Zn + 10HNO\n3\n(dil.) → 4Zn(NO\n3\n)\n2\n+ N\n2\nO + 5H\n2\nO\nZn + 4HNO\n3\n(conc.)\n→\nZn(NO\n3\n)\n2\n+ 2NO\n2\n+ 2H\n2\nO",
+    "exam": "2016"
+  },
+  {
+    "question": "Q.71. The pair having the same magnetic moment is: [At. No.: Cr = 24, Mn = 25, Fe = 26, Co = 27] (a) [Cr(H 2 O) 6 ] 2+ and [CoCl 4 ] 2- (b) [Cr(H 2 O) 6 ] 2+ and [Fe(H 2 O) 6 2+ (c) [Mn(H 2 O) 6 ] 2+ and [Cr(H 2 O) 6 ] 2+ (d) [CoCl 4 ] 2- and [Fe(H 2 O) 6 ] 2+",
+    "correct_answer": "b",
+    "solution": "Cr\n+2\n→\n(Ar) 3d\n4\n4s\n0\nFe\n+2\n→ (Ar) 3d\n6\n4s\n0",
+    "exam": "2016"
+  },
+  {
+    "question": "Q.72. Which one of the following complexes shows optical isomerism? (a) [Co(NH 3 ) 3 Cl 3 ] (b) cis[Co(en) 2 Cl 2 ]Cl (c) trans[Co(en) 2 Cl 2 ]Cl (en = ethylenediamine) (d) [Co(NH 3 ) 4 Cl 2 ] Cl",
+    "correct_answer": "b",
+    "solution": "",
+    "exam": "2016"
+  },
+  {
+    "question": "Q.73. Which one of the following complexes will consume more equivalents of aqueous solution of Ag(NO 3 )? (a) Na 3 [CrCl 6 ] (b) [Cr(H 2 O) 5 Cl]Cl 2 (c) [Cr(H 2 O) 6 ]Cl 3 (d) Na 2 [CrCl 5 (H 2 O)]",
+    "correct_answer": "c",
+    "solution": "Complex [Cr(H\n2\nO)\n6\n]Cl\n3\nwill consume more equivalents of aqueous solution of Ag(NO\n3\n).",
+    "exam": "2016"
+  },
+  {
+    "question": "Q.74. Which one of the following species is stable in aqueous solution? (a) MnO 2- 4 (b) MnO 3- 4 (c) Cu + (d) Cr 2+",
+    "correct_answer": "a",
+    "solution": "MnO\n2-\n4\ndisproportionates in neutral or acidic solution.\n3MnO\n2-\n4\n+ 4H+ → 2\nMnO\n2-\n4\n+ MnO\n2  +\n2H\n2\nO\n(3) Many Cu\n+\ncompounds are unstable in aqueous solution and undergo disproportionation as follows\n2Cu\n+\n→ Cu\n2+\n+ Cu",
+    "exam": "2016"
+  },
+  {
+    "question": "Q.75. Identify the correct trend given below: (Atomic No.: Ti = 22, Cr = 24 and Mo = 42) (a) (b) (c) (d)",
+    "correct_answer": "d",
+    "solution": "The splitting is affected by the oxidation state of the central metal ion. A higher oxidation state leads to larger splitting hence\nΔ\n0\nof [Ti(H\n2\nO)\n6\n]\n3+\n< Δ\n0\nof [ Ti(H\n2\nO)\n6\n]\n2+\nFurther Δ\n0\nalso depends of Z\neff\nand Z\neff\nof 4d series if more than 3d series.\nHence\nΔ\n0\nof [Cr(H\n2\nO)\n6\n]\n2+\n< Δ\n0\nof [Mo(H\n2\nO)\n6\n]\n2+",
+    "exam": "2016"
+  },
+  {
+    "question": "Q.76. The transition metal ions responsible for color in ruby and emerald are, respectively: (a) Cr 3+ and Cr 3+ (b) Co 3+ and Co 3+ (c) Co 3+ and Cr 3+ (d) Cr 3+ and Co 3+",
+    "correct_answer": "a",
+    "solution": "Fact",
+    "exam": "2016"
+  },
+  {
+    "question": "Q.77. Which of the following is an example of homoleptic complex? (a) [Co(NH 3 ) 4 Cl 2 ] (b) [Co(NH 3 ) 6 ]Cl 3 (c) [Co(NH 3 ) 5 Cl]Cl 2 (d) [Pt(NH 3 ) 2 Cl 2 ]",
+    "correct_answer": "b",
+    "solution": "Complex having only 1 type of ligands are examples of homoleptic complex.",
+    "exam": "2016"
+  }
+]

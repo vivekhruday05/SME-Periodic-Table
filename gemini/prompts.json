@@ -1,0 +1,145 @@
+{
+  "rag_answer": {
+    "active_variant": "v3_optimized",
+    "variants": {
+      "v1_basic": {
+        "description": "Baseline: Simple instruction.",
+        "system": "You are a helpful assistant.",
+        "template": "Answer the question using the text provided: {query}\n\nText: {context}"
+      },
+      "v2_intermediate": {
+        "description": "Experiment: Added constraints.",
+        "system": "You are a Chemistry Tutor.",
+        "template": "Answer based ONLY on the context. Do not use outside knowledge.\n\nContext: {context}\nQuestion: {query}"
+      },
+      "v3_optimized": {
+        "description": "Final: Strict context adherence with concise output.",
+        "system": "You are a helpful assistant for a K-12 student. You MUST answer the user's question only using the context provided. Do not use any outside knowledge. If the answer is not in the context, say: 'I'm sorry, but I couldn't find that information in the provided documents.' Be concise and clear.",
+        "template": "Context:\n{context}\n\nQuestion: {query}\n\nAnswer:"
+      }    
+    }
+  },
+  "router_agent": {
+    "active_variant": "v3_optimized",
+    "variants": {
+      "v1_keyword": {
+        "description": "Baseline: Keyword matching.",
+        "system": "You are a classifier.",
+        "template": "Classify this text: '{user_query}' into quiz, report, or email."
+      },
+      "v2_extraction": {
+        "description": "Experiment: Basic Entity Extraction.",
+        "system": "You are a task extractor.",
+        "template": "Find the task, topic, and email in this text: {user_query}."
+      },
+      "v3_optimized": {
+        "description": "Final: Full Context-Aware Extraction with History & Feedback logic.",
+        "system": "You are a task detail extractor. You must consider the user's previous history and feedback to better understand their current request.",
+        "template": "**Previous Chat Summary:**\n{chat_context}\n\n**Previous Feedback Summary:**\n{feedback_context}\n\n---\n**Current User Request:**\n{user_query}\n---\n\n**User's Registered Email (if known):** {user_email}\n---\n\nBased on ALL the context above, extract key fields and ALL tasks requested.\nA user may request multiple tasks in one prompt (e.g. \"Explain X and generate a quiz\").\n\nTasks you can identify: quiz, report, presentation, knowledge/explanation.\nIf a field is not mentioned, return null for it.\nReturn ONLY a valid JSON object with this schema:\n{{\n  \"tasks\": [\"quiz\" | \"report\" | \"presentation\" | \"knowledge\" | \"explanation\"],\n  \"task_type\": \"quiz\" | \"report\" | \"presentation\" | \"knowledge\" | null,\n  \"email\": string | null,\n  \"topic\": string | null,\n  \"grade\": string | null,\n  \"duration\": string | null\n}}\n\nRules:\n- **Email Rule (Priority):** If the user mentions \"email\", \"send\", or \"send me\" (e.g., \"...and send it to my email\"), you MUST extract the email.\n  - If they provide a specific address (e.g., \"...to_bob@x.com\"), set `email: \"bob@x.com\"`.\n  - If they just say \"email me\" AND \"User's Registered Email\" is available, set `email` to that address.\n  - If they say \"email me\" AND no registered email is available, set `email: null`.\n\n- **Context-First Rule:** If the \"Current User Request\" is vague (e.g., \"Solve this,\" \"Explain more,\" \"Generate a quiz on that\"), you MUST use the \"Previous Chat Summary\" to identify the main `topic`.\n  (e.g., Summary says \"quiz on periodic table\", User says \"Solve it\" -> `topic: \"periodic table\"`)\n\n- **Explanation Rule:** If user asks a general question (\"tell me about\", \"what is\", \"explain\", \"describe\") about a subject, you MUST:\n  1. Include \"knowledge\" in the `tasks` list.\n  2. Extract the main subject as the `topic`.\n  (e.g., \"Explain periodic table\" -> `tasks: [\"knowledge\"]`, `topic: \"periodic table\"`)\n  \n- 'email' is NOT a task, it is a separate field. Do not add 'email' to the tasks list.\n- Normalize synonyms: explanation -> knowledge."
+      }
+    }
+  },
+  "quiz_generator": {
+    "active_variant": "v3_optimized",
+    "variants": {
+      "v1_basic": {
+        "description": "Baseline: Generic quiz.",
+        "system": "You are a quiz maker.",
+        "template": "Make a quiz about {topic} using {context}."
+      },
+      "v2_few_shot": {
+        "description": "Experiment: Few-shot examples.",
+        "system": "You are a teacher.",
+        "template": "Create a quiz on {topic}. Example: 1. Question A) Opt Answer: A. \nContext: {context}"
+      },
+      "v3_optimized": {
+        "description": "Final: Detailed Gemini API prompt with strict constraints.",
+        "system": "Generate educational quiz content from knowledge context using Gemini API. Uses Google's Gemini API to generate quiz questions with multiple choice answers based on provided context and educational constraints.",
+        "template": "Requirements: {constraints}\n\nKnowledge Base:\n{context}\n\nCreate a structured quiz with:\n- Clear numbered questions (at least 5)\n- 4 multiple choice options (A, B, C, D) for each question\n- Correct answer marked as 'Answer: [letter]' after each question\n- Professional formatting suitable for students\n- Difficulty appropriate for the grade level specified\n\nBegin quiz:"
+      }
+    }
+  },
+  "report_generator": {
+    "active_variant": "v3_optimized",
+    "variants": {
+      "v1_basic": {
+        "description": "Baseline: Summarizer.",
+        "system": "You are a summarizer.",
+        "template": "Summarize {topic} from {context}."
+      },
+      "v2_structured": {
+        "description": "Experiment: Added sections.",
+        "system": "You are an academic writer.",
+        "template": "Write a report on {topic} with Intro, Body, Conclusion. Context: {context}"
+      },
+      "v3_optimized": {
+        "description": "Final: Synthesis prompt matching Python docstring requirements.",
+        "system": "Generates a written report/summary from a knowledge context using Gemini API. Uses Google's Gemini API to synthesize the provided context into a coherent, multi-paragraph report on the given topic.",
+        "template": "Topic: {topic}\nContext:\n{context}\n\nInstructions:\nSynthesize the context into a professional report.\n- Use '##' for Title.\n- Use '###' for Section Headers.\n- Use '*' for bullets.\n\nBegin Report:"
+      }
+    }
+  },
+  "presentation_generator": {
+    "active_variant": "v3_optimized",
+    "variants": {
+      "v1_basic": {
+        "description": "Baseline: Slide text.",
+        "system": "You are a slide writer.",
+        "template": "Write slides for {topic}."
+      },
+      "v2_bullets": {
+        "description": "Experiment: Bullet points.",
+        "system": "You are a presentation maker.",
+        "template": "Write bullet points for {topic}. Context: {content}"
+      },
+      "v3_optimized": {
+        "description": "Final: Structured and Styled PPTX logic.",
+        "system": "Generates a structured and STYLED .pptx presentation file from content. Includes logic to clean junk text before the first header.",
+        "template": "Convert this content into a slide structure about {topic}.\n\nFormatting Rules:\n- Use '## ' for New Slide Title.\n- Use '*' for bullet points.\n- Keep text concise.\n\nContent:\n{content}"
+      }
+    }
+  },
+  "email_tool": {
+    "active_variant": "v3_optimized",
+    "variants": {
+      "v1_basic": {
+        "description": "Baseline: Simple text.",
+        "system": "You are an email bot.",
+        "template": "Write email about {subject}."
+      },
+      "v2_formal": {
+        "description": "Experiment: Formal tone.",
+        "system": "You are a professional assistant.",
+        "template": "Write a formal email about {subject}."
+      },
+      "v3_optimized": {
+        "description": "Final: HTML-formatted email with Markdown rendering.",
+        "system": "Sends an HTML-formatted email with optional attachments. Renders basic Markdown (##, ###, *, -) into HTML.",
+        "template": "Draft an email body for {subject}.\n\nGuidelines:\n- Render Markdown to HTML.\n- Mention attachments explicitly.\n- Professional Tone."
+      }
+    }
+  },
+  "knowledge_retrieval": {
+    "active_variant": "v3_optimized",
+    "variants": {
+      "v1_basic": { "description": "Baseline", "template": "Search for {query}." },
+      "v2_filtered": { "description": "Experiment", "template": "Search for {query} with filter." },
+      "v3_optimized": {
+        "description": "Final: RAG Retriever logic.",
+        "system": "Retrieve chemistry knowledge from indexed database using RAG.",
+        "template": "Query: {query}"
+      }
+    }
+  },
+  "pdf_generator": {
+    "active_variant": "v3_optimized",
+    "variants": {
+      "v1_basic": { "description": "Baseline", "template": "Print text to PDF." },
+      "v3_optimized": {
+        "description": "Final: Markdown to PDF logic.",
+        "system": "Generate a clean, nicely formatted PDF from Markdown content using markdown_pdf (MarkdownPdf, Section).",
+        "template": "Convert Content to PDF: {content}"
+      }
+    }
+  }
+}

@@ -1,0 +1,380 @@
+[
+  {
+    "question": "Q.1. The first ionization enthalpy of Na, Mg and Si, respectively, are : 496, 737 and 786 kJ mol −1 . The first ionization enthalpy (kJmol −1 ) of Al is : (a) 760 (b) 575 (c) 801 (d) 419",
+    "correct_answer": "Correct Answer is Option (b)",
+    "solution": "Na < Mg > Al < Si\nThe energy required to expel the outermost, or highest energy, electron from a neutral atom in the gas phase is known as an element's initial ionization energy. It is known that the first ionization energy of Al is more than the sodium (737) but it is less than the Mg (496).\nSo the first ionization energy of Al near 575.\nHence, the option B is correct",
+    "exam": "JEE Main 2022"
+  },
+  {
+    "question": "Q.2. In which of the following pairs, electron gain enthalpies of constituent elements are nearly the same or identical? (A) Rb and Cs (B) Na and K (C) Ar and Kr (D) I and At Choose the correct answer from the options given below : (a) (A) and (B) only (b) (B) and (C) only (c) (A) and (C) only (d) (C) and (D) only",
+    "correct_answer": "Correct Answer is Option (c)",
+    "solution": "Rb & Cs have nearly same electron gain enthalpy electron gain enthalpy = −46kj/ml\nAr & Kr have same ΔH\neq\n. Value is + 96 kj/ml",
+    "exam": "JEE Main 2022"
+  },
+  {
+    "question": "Q.3. The incorrect statement is (a) The first ionization enthalpy of K is less than that of Na and Li. (b) Xe does not have the lowest first ionization enthalpy in its group. (c) The first ionization enthalpy of element with atomic number 37 is lower than that of the element with atomic number 38. (d) The first ionization enthalpy of Ga is higher than that of the d-block element with atomic number 30.",
+    "correct_answer": "Correct Answer is Option (d)",
+    "solution": "On moving down in a group ionisation energy decrease\n∴1\nst\nionisation enthalpy order is Li>Na>K\nZn has more ionisation energy as compared to Ga because of their pseudo inert gas configuration.",
+    "exam": "JEE Main 2022"
+  },
+  {
+    "question": "Q.4. Given two statements below : Statement I : In Cl2 molecule the covalent radius is double of the atomic radius of chlorine. Statement II : Radius of anionic species is always greater than their parent atomic radius. Choose the most appropriate answer from options given below : (a) Both Statement I and Statement II are correct. (b) Both Statement I and Statement II are incorrect. (c) Statement I is correct but Statement II is incorrect. (d) Statement I is incorrect but Statement II is correct.",
+    "correct_answer": "Correct Answer is Option (d)",
+    "solution": "Covalent radius is not double of atomic radius.\nRadius of anionic species is always greater than their parent atomic radius as nuclear charge decreases in anionic counterpart.",
+    "exam": "JEE Main 2022"
+  },
+  {
+    "question": "Q.5. The first ionization enthalpies of Be, B, N and O follow the order (a) O < N < B < Be (b) Be < B < N < O (c) B < Be < N < O (d) B < Be < O < N",
+    "correct_answer": "Correct Answer is Option (d)",
+    "solution": "The first ionization energy increase from left to right along 2\nnd\nperiod with the following exceptions\nIE\n1\n: Be > B and N > O\nThis is due to stable configuration of Be in comparison to B and that of N in comparison to O.\nHence the correct order is N > O > Be > B",
+    "exam": "JEE Main 2022"
+  },
+  {
+    "question": "Q.6. The IUPAC nomenclature of an element with electronic configuration [Rn] 5f146d17s2 is : (a) Unnilbium (b) Unnilunium (c) Unnilquadium (d) Unniltrium",
+    "correct_answer": "Correct Answer is Option (d)",
+    "solution": "The element with electronic configuration [Rn] 5f\n14\n6 d\n1\n7 s\n2\nhas atomic number → 103\n∴ Its IUPAC name is: Unniltrium",
+    "exam": "JEE Main 2022"
+  },
+  {
+    "question": "Q.7. The correct order of electron gain enthalpy (− ve value) is : (a) O > S > Se > Te (b) O < S < Se < Te (c) O < S > Se > Te (d) O < S > Se < Te",
+    "correct_answer": "Correct Answer is Option (c)",
+    "solution": null,
+    "exam": "JEE Main 2022"
+  },
+  {
+    "question": "Q.8. The correct order of electron gain enthalpies of Cl, F, Te and Po is (a) F < Cl < Te < Po (b) Po < Te < F < Cl (c) Te < Po < Cl < F (d) Cl < F < Te < Po",
+    "correct_answer": "Correct Answer is Option (b)",
+    "solution": "Te → –190 kJ mol\n–1\nPo → –174 kJ mol\n–1\nF → –333 kJ mol\n–1\nCl → –349 kJ mol\n–1\nHence, correct order is Cl > F > Te > Po",
+    "exam": "JEE Main 2022"
+  },
+  {
+    "question": "Q.9. Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A) : The ionic radii of O 2− and Mg 2+ are same. Reason (R) : Both O 2− and Mg 2+ are isoelectronic species. In the light of the above statements, choose the correct answer from the options given below. (a) Both (A) and (R) are true and (R) is the correct explanation of (A). (b) Both (A) and (R) are true but (R) is not the correct explanation of (A). (c) (A) is true but (R) is false. (d) (A) is false but (R) is true.",
+    "correct_answer": "Correct Answer is Option (a)",
+    "solution": "Correct order of ionic radii:\nO\n–2\n> Mg\n+2\nThis is because among isoelectronic species, the size of anions are greater than the size of cations. Statement (II) is correct as both O\n–2\nand Mg\n+2\nare isoelectronic.",
+    "exam": "JEE Main 2022"
+  },
+  {
+    "question": "Q.10. The correct order of increasing ionic radii is (a) Mg 2+ < Na+ < F− < O 2− < N 3− (b) N 3− < O 2− < F − < Na + < Mg 2+ (c) F − < Na + < O 2− < Mg 2+ < N 3− (d) Na + < F − < Mg 2+ < O 2− < N 3−",
+    "correct_answer": "Correct Answer is Option (a)",
+    "solution": "For isoelectronic species\nHence, correct order of ionic radii is\nMg\n2+\n< Na\n+\n< F\n–\n< O\n2–\n< N\n3–",
+    "exam": "JEE Main 2022"
+  },
+  {
+    "question": "Q.11. Element \"E\" belongs to the period 4 and group 16 of the periodic table. The valence shell electron configuration of the element, which is just above \"E\" in the group is (a) 3s 2 , 3p 4 (b) 3d 10 , 4s 2 , 4p 4 (c) 4d 10, 5s 2 , 5p 4 (d) 2s 2 , 2p 4",
+    "correct_answer": "Correct Answer is Option (a)",
+    "solution": "Element E is Selenium (Se)\nElectronic configuration of E is [Ar] 3d\n10\n4s\n2\n4p\n4\nThe element which is just above ‘E’ in periodic table is sulphur, its electronic configuration is [Ne] 3s\n2\n3p\n4",
+    "exam": "JEE Main 2022"
+  },
+  {
+    "question": "Q.12. Given below are two statements. One is labelled as Assertion A and the other is labelled as Reason R. Assertion A : The first ionization enthalpy for oxygen is lower than that of nitrogen. Reason R : The four electrons in 2p orbitals of oxygen experience more electron-electron repulsion. In the light of the above statements, choose the correct answer from the options given below. (a) Both A and R are are correct and R is the correct explanation of A. (b) Both A and R are are correct but R is NOT the correct explanation of A. (c) A is correct but R is not correct. (d) A is not correct but R is correct.",
+    "correct_answer": "Correct Answer is Option (b)",
+    "solution": "Nitrogen has half-filled p-orbitals which is stable. Due to this, its 1st ionization energy is more than oxygen.",
+    "exam": "JEE Main 2022"
+  },
+  {
+    "question": "Q.13. The electronic configuration of Pt (atomic number 78) is: (a) [Xe] 4f 14 5d 9 6s 1 (b) [Kr] 4f 14 5d 10 (c) [Xe] 4f 14 5d 10 (d) [Xe] 4f 14 5d 8 6s 2",
+    "correct_answer": "Correct Answer is Option (a)",
+    "solution": "Atomic number of Pt is 78\nElectronic configuration is –\n78\nPt → [Xe] 4 f\n14\n5d\n9\n6s\n1\n(Exceptional electronic configuration)",
+    "exam": "JEE Main 2022"
+  },
+  {
+    "question": "Q.14. Identify the element for which electronic configuration in +3 oxidation state is [Ar]3d 5 : (a) Ru (b) Mn (c) Co (d) Fe",
+    "correct_answer": "Correct Answer is Option (d)",
+    "solution": "Mn(25) = [Ar]3d\n5\n4s\n2\nMn\n+3\n= [Ar]3d\n4\n4s\n0\nRu-belongs to 4d transition series\nCo (27) = [Ar]3d\n7\n4s\n2\nCo\n+3\n= [Ar]3d\n6\n4s\n0\nFe(26) = [Ar]3d\n6\n4s\n2\nFe\n+3\n= [Ar]3d\n5\n4s\n0",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.15. Match List - I with List - II : Choose the most appropriate answer from the options given below : (a) (A)-(i), (B)-(ii), (C)-(iii), (D)-(iv) (b) (A)-(iii), (B)-(iv), (C)-(ii), (D)-(i) (c) (A)-(i), (B)-(iv), (C)-(ii), (D)-(iii) (d) (A)-(iv), (B)-(ii), (C)-(iii), (D)-(i)",
+    "correct_answer": "Correct Answer is Option (b)",
+    "solution": "Mn\n2+\n→ III group\nAs\n3+\n→ II B group\nCu\n2+\n→ II A group\nAl\n3+\n→ IV group",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.16. The Eu 2+ ion is a strong reducing agent in spite of its ground state electronic configuration (outermost) : [Atomic number of Eu = 63] (a) 4f 7 6s 2 (b) 4f 6 (c) 4f 7 (d) 4f 6 6s 2",
+    "correct_answer": "Correct Answer is Option (c)",
+    "solution": "Eu → [Xe]4f\n7\n6s\n2\nEu\n2+\n→ [Xe]4f\n7",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.17. Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A) : Metallic character decreases and non-metallic character increases on moving from left to right in a period. Reason (R) : It is due to increase in ionisation enthalpy and decrease in electron gain enthalpy, when one moves from left to right in a period. In the light of the above statements, choose the most appropriate answer from the options given below : (a) (A) is false but (R) is true. (b) (A) is true but (R) is false (c) Both (A) and (R) are correct and (R) is the correct explanation of (A) (d) Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+    "correct_answer": "Correct Answer is Option (b)",
+    "solution": "From left to right in periodic table:-\nMetallic character decreases\nNon-metallic character increases\n⇒ It is due to increase in ionization enthalpy and increase in electron gain enthalpy.",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.18. Which one of the following lanthanides exhibits +2 oxidation state with diamagnetic nature ? (Given Z for Nd = 60, Yb = 70, La = 57, Ce = 58) (a) Nd (b) Yb (c) La (d) Ce",
+    "correct_answer": "Correct Answer is Option (b)",
+    "solution": "Yb (70) = 4f\n14\n6s\n2\nYb\n+2\n= 4f\n14\n6s\n0\n∵ All the electrons are paired hence Yb\n+2\nis diamagnetic.",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.19. Which one of the following is used to remove most of plutonium from spent nuclear fuel? (a) ClF 3 (b) O 2 F 2 (c) I 2 O 5 (d) BrO 3",
+    "correct_answer": "Correct Answer is Option (b)",
+    "solution": "O\n2\nF\n2\noxidizes plutonium to PuF\n6\nand the reaction is used in removing plutonium as PuF\n6\nfrom spent nuclear fuel.",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.20. The correct order of ionic radii for the ions, P 3− , S 2− , Ca 2+ , K + , Cl − is : (a) P 3− > S 2− >Cl − > K + > Ca 2+ (b) Cl − > S 2− > P 3− > Ca 2+ > K + (c) P 3− > S 2− > Cl − > Ca 2+ > K + (d) K + > Ca 2+ > P 3− > S 2− > Cl −",
+    "correct_answer": "Correct Answer is Option (a)",
+    "solution": "P\n3−\n> S\n2−\n> Cl\n−\n> K\n+\n> Ca\n2+\n(Correct order of ionic radii)\nall the given species are isoelectronic species. In isoelectronic species size increases with increase of negative charge and size decreases with increase in positive charge.",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.21. Choose the correct statement from the following : (a) The standard enthalpy of formation for alkali metal bromides becomes less negative on descending the group. (b) The low solubility of CsI in water is due to its high lattice enthalpy. (c) Among the alkali metal halides, LiF is least soluble in water. (d) LiF has least negative standard enthalpy of formation among alkali metal fluorides.",
+    "correct_answer": "Correct Answer is Option (c)",
+    "solution": "a\n. Standard enthalpy of formation for alkali metal bromides becomes more negative on descending down the group.\nb.\nIn case of CsI, lattice energy is less, but Cs+ is having less hydration enthalpy due to which it is less soluble in water.\nc.\nFor alkali metal fluorides, the solubility in water increases from lithium to caesium. LiF is least soluble in water.\nd.\nStandard enthalpy of formation for LiF is most negative among alkali metal fluorides.",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.22. In which one of the following molecules strongest back donation of an electron pair from halide to boron is expected? (a) BCl 3 (b) BF 3 (c) BBr 3 (d) BI 3",
+    "correct_answer": "Correct Answer is Option (b)",
+    "solution": "Type of back bonding\nTherefore back bonding strength is as follows\nBF\n3\n> BCl > BBr\n3\n> BI\n3",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.23. Chalcogen group elements are : (a) Se, Tb and Pu. (b) Se, Te and Po. (c) S, Te and Pm. (d) O, Ti and Po.",
+    "correct_answer": "Correct Answer is Option (b)",
+    "solution": "Group 16/oxygen family is known as Chalcogens the members are O, S, Se, Te, Po",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.24. Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A) : Barium carbonate is insoluble in water and is highly stable. Reason (R) : The thermal stability of the carbonates increases with increasing cationic size. (a) Both (A) and (R) are true and (R) is the true explanation of (A) (b) (A) is true but (R) is false (c) Both (A) and (R) are true but (R) is not the true explanation of (A) (d) (A) is false but (R) is true.",
+    "correct_answer": "Correct Answer is Option (a)",
+    "solution": "In IIA group on moving down the group size of cation increases and show thermal stability of carbonate increases.",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.25. The correct order of first ionisation enthalpy is : (a) Mg < S < Al < P (b) Mg < Al < S < P (c) Al < Mg < S < P (d) Mg < Al < P < S",
+    "correct_answer": "Correct Answer is Option (c)",
+    "solution": "",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.26. The ionic radii of F − and O 2− respectively are 1.33Å and 1.4Å, while the covalent radius of N is 0.74Å. The correct statement for the ionic radius of N 3− from the following is : (a) It is smaller than F − and N (b) It is bigger than O 2− and F − (c) It is bigger than F − and N, but smaller than of O 2− (d) It is smaller than O 2− and F − , but bigger than of N",
+    "correct_answer": "Correct Answer is Option (b)",
+    "solution": "F\n−\n, O\n2−\nand N\n3−\nall are isoelectronic species in which N\n3−\nhave least number of protons due to which it's size increases as least nuclear attraction is experienced by the outer shell electrons. Size order\nN\n3−\n> O\n2−\n> F",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.27. The ionic radii of K + , Na + , Al 3+ and Mg 2+ are in the order: (a) Na + < K + < Mg 2+ < Al 3+ (b) Al 3+ < Mg 2+ < K + < Na + (c) Al 3+ < Mg 2+ < Na + < K + (d) K + < Al 3+ < Mg 2+ < Na +",
+    "correct_answer": "Correct Answer is Option (c)",
+    "solution": "Al\n3+\n, Mg\n2+\nand Na\n+\nare isoelectronic ionic species. For monoatomic ionic isoelectronic species as positive charge increases ionic size decreases.\nThe order of size of Na\n+\n& K\n+\nis Na\n+\n< K\n+\n∴ Order of ionic radii is : Al\n3+\n< Mg\n2+\n< Na\n+\n< K\n+",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.28. The set having ions which are coloured and paramagnetic both is - (a) Cu 2+ , Cr 3+ , Sc + (b) Cu 2+ , Zn 2+ , Mn 4+ (c) Sc 3+ , V 5+ , Ti 4+ (d) Ni 2+, Mn 7+ , Hg 2+",
+    "correct_answer": "Correct Answer is Option (a)",
+    "solution": "All are coloured and paramagnetic due to presence of unpaired electrons",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.29. Which one of the following statements for D.I. Mendeleeff, is incorrect? (a) He authored the textbook - Principles of Chemistry (b) At the time, he proposed Periodic Table of elements structure of atom was known. (c) Element with atomic number 101 is named after him. (d) He invented accurate barometer.",
+    "correct_answer": "Correct Answer is Option (b)",
+    "solution": "In 1869, the Russian chemist Dmitri Mendeleev came to prominence with his tabular diagram of known elements, but basic atomic structure the idea that everything is made of atoms was pioneered by John Dalton (1766-1844) in a book he published in 1808.",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.30. The first ionization energy of magnesium is smaller as compared to that of elements X and Y, but higher than that of Z. The elements X, Y and Z, respectively, are : (a) neon, sodium and chlorine (b) argon, chlorine and sodium (c) chlorine, lithium and sodium (d) argon, lithium and sodium",
+    "correct_answer": "Correct Answer is Option (b)",
+    "solution": "Order of I.E.\n3rd period → Na < Al < Mg < Si < S < P < Cl < Ar",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.31. The common positive oxidation states for an element with atomic number 24, are : (a) +1 and +3 (b) +2 to +6 (c) +1 to +6 (d) +1 and +3 to +6",
+    "correct_answer": "Correct Answer is Option (b)",
+    "solution": "24\nCr = [Ar]3d\n54\ns\n1\nCommon positive oxidation state of Cr are from +2 to +6\nwhere +3 and +6 are the most common ones.",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.32. The absolute value of the electron gain enthalpy of halogens satisfies : (a) Cl > Br > F > I (b) Cl > F > Br > I (c) I > Br > Cl > F (d) F > Cl > Br > I",
+    "correct_answer": "Correct Answer is Option (b)",
+    "solution": "The magnitude of electron gain enthalpy of halogen atoms down the group show abnormal behavior. The |ΔH\neg\n| of F is lower than that of Cl due to its smaller size. The incoming electron experiences higher repulsive force due to valence electrons of F than Cl. The correct order is Cl > F > Br > I.",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.33. Identify the elements X and Y using the ionisation energy values given below : (a) X = F; Y = Mg (b) X = Mg; Y = F (c) X = Na; Y = Mg (d) X = Mg; Y = Na",
+    "correct_answer": "Correct Answer is Option (c)",
+    "solution": "Due to 2p\n6\n, noble gas electronic configuration, the second ionisation enthalpy of Na is very high.\nThat’s why has large difference between IE\n1\n, and IE\n2\nMg\n+\nis 2p\n6\n, 3s\n1\n.\nAfter the loss of one electron, Mg\n+\nwill be formed with noble gas electronic configuration. That’s why has less difference between I.E\n1\nand I.E\n2\n, but it's I.E\n3\nis very high.",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.34. The characteristics of elements X, Y and Z with atomic numbers, respectively, 33, 53 and 83 are : (a) X and Y are metalloids and Z is a metal. (b) X and Z are non-metals and Y is a metalloid. (c) X is a metalloid, Y is a non-metal and Z is a metal. (d) X, Y and Z are metals.",
+    "correct_answer": "Correct Answer is Option (c)",
+    "solution": "X(Z = 33) = As (metalloid)\nY(Z = 53) = I (non-metal)\nZ(Z = 83) = Bi (metal)",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.35. Given below are two statement : one is labelled as Assertion A and the other is labelled as Reason R : Assertion A : Size of Bk 3+ ion is less than Np 3+ ion. Reason R : The above is a consequence of the lanthanoid contraction. In the light of the above statements, choose the correct answer from the options given below: (a) Both A and B are true and R is the correct explanation of A (b) A is false but R is true (c) A is true but R is false (d) Both A and B are true but R is not the correct explanation of A",
+    "correct_answer": "Correct Answer is Option (c)",
+    "solution": "Size of Bk\n3+\nis 98 pm\nSize of Np\n3+\nis 101 pm\nSo size of Np\n3+\nis more than Bk\n3+\nion.\nthere is a gradual decrease in the size of M\n3+\nions across the series. This may be referred to as the actinoid contraction.",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.36. The correct order of electron gain enthalpy is : (a) Te > Se > S > O (b) S > Se > Te > O (c) S > O > Se > Te (d) O > S > Se > Te",
+    "correct_answer": "Correct Answer is Option (b)",
+    "solution": "Oxygen is the second most electronegative element in comparison to fluorine. In group - 16 family (O, S, Se, Te), O-atom is smallest in size. So, electron density on O-atom is very high in group -16 During addition of a free electron to gaseous O-atom,\nO(g) + e\n−\n⟶ O\n−\n(g)\nWe have to supply a significant amount of energy (endothermic) to overcome the electrostatic repulsion between the approaching electron and O-atom of very high electron density. So, the net value of electron affinity (EA) or (negative) electron gain enthalpy [Δ\neg\nH or |Δ\neg\nH|] of oxygen decreases to a higher extent in comparison to other elements of group -16 who have larger size and lower electronegativity.\nSo, the correct order of EA or |Δ\neg\nH| of group −16 elements will be S > Se > Te > O",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.37. Match List - I with List - II.",
+    "correct_answer": "Correct Answer is Option (c)",
+    "solution": "(a) 1s\n2\n2s\n2\n→ Be\n(b) 1s\n2\n2s\n2\n2p\n4\n→ O\n(c) 1s\n2\n2s\n2\n2p\n3\n→ N\n(d) 1s\n2\n2s\n2\n2p\n1\n→ B\nThe ionization enthalpy order is\nB < Be < O < N\nBe has more IE compared to B due to extra stability & N has more IE compared to oxygen due to extra stability.\nHence, N → 1402 kJ/mol\nO → 1314 kJ/mol\nB → 801 kJ/mol\nBe → 899 kJ/mol",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.38. The correct order of bond dissociation enthalpy of halogens is : (a) F 2 > Cl 2 > Br 2 > I 2 (b) Cl 2 > Br 2 > F 2 > I 2 (c) I 2 > Br 2 > Cl 2 > F 2 (d) Cl 2 > F 2 > Br 2 > I 2",
+    "correct_answer": "Correct Answer is Option (b)",
+    "solution": "Among halogens (F\n2\n, Cl\n2\n, Br\n2\nand I\n2\n), bond dissociation enthalpy (Δ\ndiss\nH\n∘\n) of I\n2\n, is minimum because of larger size of I-atom there is a steric repulsion between bonded I-atoms, which makes I-I bond weakest.\nWhereas, smaller size and highest electronegativity of F-atom cause highest electron density on F-atom of F\n2\nmolecule. As a result, F-F bond becomes weaker due to electrostatic repulsion between bonded F-atoms.\nThus, the order of Δ\ndiss\nH\n∘\n(in kJ mol\n−1\n) is",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.39. What is the correct order of the following elements with respect to their density? (a) Cr < Zn < Co < Cu < Fe (b) Cr < Fe < Co < Cu < Zn (c) Zn < Cr < Fe < Co < Cu (d) Zn < Cu < Co < Fe < Cr",
+    "correct_answer": "Correct Answer is Option (c)",
+    "solution": "Generally, due to decrease in metallic radius and increase in atomic mass density increase across the period from left to right.\nCorrect order is Cu > Co > Fe > Cr > Zn.",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.40. Consider the elements Mg, Al, S, P and Si, the correct increasing order of their first ionization enthalpy is : (a) Al < Mg < Si < S < P (b) Al < Mg < S < Si < P (c) Mg < Al < Si < S < P (d) Mg < Al < Si < P < S",
+    "correct_answer": "Correct Answer is Option (a)",
+    "solution": "On moving left to right in a period of the periodic table, Ionisation energy (I.E.) increases due to increase in effective nuclear charge i.e. Zeff.\nBut due to extra stability of fully filled and half-filled electronic configuration of Mg and P required ionisation enthalpy is more from neighbouring elements.\ni.e. First ionisation enthalpy order is Al < Mg < Si < S < P.",
+    "exam": "JEE Main 2021"
+  },
+  {
+    "question": "Q.41. Within each pair of elements F and Cl, S and Se, and Li and Na, respectively, the elements that release more energy upon an electron gain are [2020] (a) Cl, Se and Na (b) Cl, S and Li (c) F, S and Li (d) F, Se and Na",
+    "correct_answer": "Correct Answer is Option (b)",
+    "solution": "The electron gain enthalpy of Cl is more than that of F. Thus the pair that is Cl, S and Li releases more energy than F, S and Li. The electron gain enthalpy of S and Li is more than Se and Na respectively.",
+    "exam": null
+  },
+  {
+    "question": "Q.42. The first ionization energy (in kJ mol –1 ) of Na, Mg, Al and Si respectively, are [2020] (a) 496, 737, 577, 786 (b) 496, 577, 737, 786 (c) 786, 737, 577, 496 (d) 496, 577, 786, 737",
+    "correct_answer": "Correct Answer is Option (a)",
+    "solution": "Moving from left to right in a period, the size of the element decreases and the value of first ionization enthalpy increases. Thus, the ionization energy of Na, Mg, Al and Si should be 496, 577, 737 and 786 kJ mol\n–1\nrespectively but due to the entry of the d-orbital in 3\nrd\nperiod the effective nuclear charge of Al increases. So the ionization energy of Al is lower than Mg.\nHence, the correct order of first ionization energy of Na, Mg, Al, and Si is 496, 737, 577, and 786 kJ mol\n–1\nrespectively.",
+    "exam": null
+  },
+  {
+    "question": "Q.43. The increasing order of the atomic radii of the following elements is [2020] (I) C (II) O (III) F (IV) Cl (V) Br (a) (II) < (III) < (IV) < (I) < (V) (b) (IV) < (III) < (II) < (I) < (V) (c) (III) < (II) < (I) < (IV) < (V) (d) (I) < (II) < (III) < (IV) < (V)",
+    "correct_answer": "Correct Answer is Option (c)",
+    "solution": "Moving left to right along a period, the size of the elements decreases and moving down the group, the size of the elements increases. Thus, Br is the biggest in size since it belongs to 4\nth\nperiod followed by Cl which belongs to 3\nrd\nperiod. Fluorine is the smallest element in the periodic table, and carbon comes before O in 2\nnd\nperiod. Hence, the correct increasing order of atomic radii is: (III), (II), (I), (IV), (V).",
+    "exam": null
+  },
+  {
+    "question": "Q.44. B has a smaller first ionization enthalpy than Be. Consider the following statements: (I) It is easier to remove 2p electron than 2s electron. (II) 2p electron of B is more shielded from the nucleus by the inner core of electrons than the 2s electrons of Be. (III) 2s electron has more penetration power than 2p electron. (IV) Atomic radius of B is more than Be. (Atomic number B = 5, Be = 4) The correct statements are [2020] (a) (I), (II) and (IV) (b) (II), (III) and (IV) (c) (I), (II) and (III) (d) (I), (III) and (IV)",
+    "correct_answer": "Correct Answer is Option (c)",
+    "solution": "The electronic configuration of B (Z = 5) is 1s\n2\n2s\n2\n2p\n1\nand Be (Z = 4) is 1s\n2\n2s\n2\n2p\n0\n. Thus, it is easier to remove an electron from B than Be. The 2p orbital of B is more shielded than 2s orbital of Be. s-orbital has more penetration power than p-orbital.",
+    "exam": null
+  },
+  {
+    "question": "Q.45. The acidic, basic and amphoteric oxides, respectively, are [2020] (a) Na 2 O, SO 3 , Al 2 O 3 (b) Cl 2 O, CaO, P 4 O 10 (c) N 2 O 3 , Li 2 O, Al 2 O 3 (d) MgO, Cl 2 O, Al 2 O 3",
+    "correct_answer": "Correct Answer is Option (c)",
+    "solution": "Non-metals of p-block elements form acidic oxide and metals of p-block elements form amphoteric oxide since they have properties in between metals and non-metals. Oxide of metals of s-block elements are basic in nature.\nHence,\nAcidic oxide: N\n2\nO\n3\nBasic oxide: Li\n2\nO\nAmphoteric oxide: Al\n2\nO\n3",
+    "exam": null
+  },
+  {
+    "question": "Q.46. If the magnetic moment of a dioxygen species is 1.73 BM, it may be [2020] (a) (b) (c) (d)",
+    "correct_answer": "Correct Answer is Option (a)",
+    "solution": "The molecular electronic configuration of the following species is",
+    "exam": null
+  },
+  {
+    "question": "Q.47. In general, the properties that decrease and increase down a group in the periodic table, respectively, are: [2019] (a) A tomic radius and electronegativity. (b) E lectron gain enthalpy and electronegativity. (c) E lectronegativity and atomic radius. (d) E lectronegativity and electron gain enthalpy.",
+    "correct_answer": "Correct Answer is Option (c)",
+    "solution": "Generally, electronegativity decreases down the group as the size increases. This can also be formulated as:\nElectronegativity = 1/ size",
+    "exam": null
+  },
+  {
+    "question": "Q.48. Aluminium is usually found in +3 oxidation state. In contrast, thallium exists in +1 and +3 oxidation states. This is due to: [2019] (a) Inert pair effect (b) Diagonal relationship (c) Lattice effect (d) Lanthanoid contraction",
+    "correct_answer": "Correct Answer is Option (a)",
+    "solution": "Inert pair effect is the prominent character of the p-block element.\nIn this, the high molecular weight element of the group show a lower oxidation state.\nThis is because on going down the group, the shielding effect increases, but d-subshell and f-subshell show poor shielding effect.\nThe high molecular weight members of p-block groups contain d-subshell and f-subshell. Because of this, they show a lower oxidation state.\nSo\n,\nDue to the inert pair effect, thallium exists in more than one oxidation state. Also, for thallium + 1 oxidation state is more stable than +3 oxidation state.",
+    "exam": null
+  },
+  {
+    "question": "Q.49. When the first electron gain enthalpy(Δ e g H) of oxygen is - 141 kJ/mol, its second electron gain enthalpy is: [2019] (a) A more negative value than the first (b) A lmost the same as that of the first (c) N egative, but less negative than the first (d) A positive value",
+    "correct_answer": "Correct Answer is Option (d)",
+    "solution": "The second electron gain enthalpy of oxygen is positive as energy has to be added for the addition of another electron.",
+    "exam": null
+  },
+  {
+    "question": "Q.50. The electronegativity of aluminium is similar to: [2019] (a) Carbon (b) Beryllium (c) Boron (d) Lithium",
+    "correct_answer": "Correct Answer is Option (b)",
+    "solution": "Be and Al shows diagonal relationship due to which these two elements have similar electronegativity.",
+    "exam": null
+  },
+  {
+    "question": "Q.51. The 71 st electron of an element X with an atomic number of 71 enters into the orbital: [2019] (a) 6p (b) 4f (c) 5d (d) 6s",
+    "correct_answer": "Correct Answer is Option (c)",
+    "solution": "∴ Orbital occupied by last e\n-\nis 5d.",
+    "exam": null
+  },
+  {
+    "question": "Q.52. The correct order of the atomic radii of C, Cs, Al, and S is: [2019] (a) C < S < Al < Cs (b) S < C < Cs < Al (c) S < C < Al < Cs (d) C < S < Cs < Al",
+    "correct_answer": "Correct Answer is Option (a)",
+    "solution": "On going down the group, size increases while going from left to right in a period size decreases, so order is C < S < Al < Cs.",
+    "exam": null
+  },
+  {
+    "question": "Q.53. The correct option with respect to the Pauling electronegativity values of the elements is: [2019] (a) Te > Se (b) Ga<Ge (c) Si < Al (d) P > S",
+    "correct_answer": "Correct Answer is Option (b)",
+    "solution": "Correct order of electronegativity values of the elements is\nSi > Al; S > P; Se > Te; Ge > Ga.",
+    "exam": null
+  },
+  {
+    "question": "Q.54. The relative stability of +1 oxidation state of group 13 elements follows the order: [2019] (a) Al < Ga < Tl < In (b) Tl < In < Ga < Al (c) Ga < Al < In < Tl (d) Al < Ga < In < Tl",
+    "correct_answer": "Correct Answer is Option (d)",
+    "solution": "Due to inert pair effect, the stability of +1 oxidation state increases down the group.\nThus, correct order of stability is Al < Ga < In < Tl",
+    "exam": null
+  },
+  {
+    "question": "Q.55. The element with Z = 120 (not yet discovered) will be an/a: [2019] (a) Inner-transition metal (b) Alkaline earth metal (c) Alkali metal (d) Transition metal",
+    "correct_answer": "Correct Answer is Option (b)",
+    "solution": "Elements with Z = 120 will belong to alkaline earth metals.\nIts electronic configuration may be represented as [Og] 8s\n2\n.",
+    "exam": null
+  },
+  {
+    "question": "Q.66. The size of the iso-electronic species Cl - , Ar and Ca 2+ is affected by: [2019] (a) A zimuthal quantum number of valence shell (b) E lectron-electron interaction in the outer orbitals (c) P rincipal quantum number of valence shell (d) N uclear charge",
+    "correct_answer": "Correct Answer is Option (d)",
+    "solution": "Iso-electronic species differ in size due to different effective nuclear charge.",
+    "exam": null
+  },
+  {
+    "question": "Q.57. The IUPAC symbol for the element with atomic number 119 would be: [2019] (a) uue (b) une (c) unh (d) uun",
+    "correct_answer": "Correct Answer is Option (a)",
+    "solution": "Symbol for 1 is u and for 9 is e.\n∴ UPAC symbol for 119 is uue.",
+    "exam": null
+  },
+  {
+    "question": "Q.58. The correct statements among I to III regarding group 13 element oxides are, [2019] (I) Boron trioxide is acidic. (II) Oxides of aluminium and gallium are amphoteric. (III) Oxides of indium and thallium are basic. (a) (I) and (II) only (b) (I), (II) and (III) (c) (I) and (III) only (d) (II) and (III) only",
+    "correct_answer": "Correct Answer is Option (b)",
+    "solution": "(I) B\n2\nO\n3\n- Acidic Oxide\n(II) Al\n2\nO\n3\n& Ga\n2\nO\n3\n- Amphoteric Oxide\n(III) In\n2\nO\n3\n& Tl\n2\nO - Basic Oxide",
+    "exam": null
+  },
+  {
+    "question": "Q.59. In comparison to boron, beryllium has: [2019] (a) L esser nuclear charge and lesser first ionisation enthalpy. (b) G reater nuclear charge and lesser first ionisation enthalpy. (c) G reater nuclear charge and greater first ionisation enthalpy. (d) L esser nuclear charge and greater first ionisation enthalpy.",
+    "correct_answer": "Correct Answer is Option (d)",
+    "solution": "Nuclear charge : B > Be\nBe = 1s\n2\n2s\n2\n(more stable)\nB = 1s\n2\n2s\n2\n2p\n1\n∴ Ionisation energy of Be is greater than B due to ns\n2\nouter electronic configuration.",
+    "exam": null
+  },
+  {
+    "question": "Q.60. For Na + , Mg 2+ , F - and O 2 - ; the correct order of increasing ionic radii is: [2018] (a) Na + < Mg 2+ < F - < O 2- (b) Mg 2 < N a + < F - < O 2- (c) Mg 2 + < O 2 - < Na + < F - (d) O 2 - < F - < Na + < Mg 2+",
+    "correct_answer": "Correct Answer is Option (b)",
+    "solution": "Isoelectronic series: Mg\n2+\n< Na\n+\n< F\n-\n< O\n2-\nWhen negative charge increase, the radius of ion increases.",
+    "exam": null
+  },
+  {
+    "question": "Q.61. The group having isoelectronic species is [2017] (a) O 2 – , F – , Na + , Mg 2+ (b) O – , F – , Na, Mg + (c) O 2– , F – , Na, Mg 2+ (d) O – , F – , Na + , Mg 2+",
+    "correct_answer": "Correct Answer is Option (a)",
+    "solution": "Mg\n2+\n, Na\n+\n, O\n2–\nand F\n–\nall have 10 electrons each.",
+    "exam": null
+  },
+  {
+    "question": "Q.62. Consider the following ionization enthalpies of two elements ‘A’ and ‘B’. [2017] Which of the following statements is correct? (a) Both ‘A’ and ‘B’ belong to group-1 where ‘A’ comes below ‘B’. (b) Both ‘A’ and ‘B’ belong to group-2 where ‘A’ comes below ‘B’. (c) Both ‘A’ and ‘B’ belong to group-1 where ‘B’ comes below ‘A’. (d) Both ‘A’ and ‘B’ belong to group-2 where ‘B’ comes below ‘A’.",
+    "correct_answer": "Correct Answer is Option (d)",
+    "solution": "Generally, the ionization enthalpies or energy increases from left to right in a period and decreases from top to bottom in a group. Several factors such as atomic radius, nuclear charge, shielding effect are responsible for change of ionization enthalpies.\nHere, Ist ionization enthalpy of A and B is greater than group I (Li 520 kJmol\n–1\nto Cs 374 kJmol\n–1\n), which means element A and B belong to group –2 and all three given ionization enthalpy values are less for element B means B will come below A.",
+    "exam": null
+  },
+  {
+    "question": "Q.63. The electronic configuration with the highest ionization enthalpy is: [2017] (a) [Ar] 3d 10 4s 2 4p 3 (b) [Ne] 3s 2 3p 1 (c) [Ne] 3s 2 3p 3 (d) [Ne] 3s 2 3p 2",
+    "correct_answer": "Correct Answer is Option (c)",
+    "solution": "S\n1\n< P\n1\n< S\n2\n< P\n2\n< P\n4\n< P\n3\n< P\n5\n< P\n6\n(IE order)",
+    "exam": null
+  }
+]

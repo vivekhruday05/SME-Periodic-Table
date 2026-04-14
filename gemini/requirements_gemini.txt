@@ -1,0 +1,42 @@
+# Requirements for Gemini API Integration
+# This replaces the local model requirements
+
+# Core LangChain
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-openai>=0.0.1
+
+# Google Gemini API
+google-generativeai>=0.3.0
+
+# PDF Generation
+fpdf2>=2.7.0
+
+# Presentation Generation
+python-pptx>=0.6.21
+
+# Elasticsearch (for RAG/knowledge retrieval)
+elasticsearch>=8.0.0
+
+# Search/Reranking
+sentence-transformers>=2.2.0  # For embeddings
+rank-bm25>=0.2.1
+
+# Utility
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# Logging & Monitoring
+python-json-logger>=2.0.0
+
+# Optional: For async operations
+aiohttp>=3.8.0
+
+# Optional: For API testing
+httpx>=0.24.0
+
+# Development (optional)
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+black>=23.0.0
+flake8>=6.0.0
